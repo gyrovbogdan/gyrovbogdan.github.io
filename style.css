@@ -1,0 +1,42 @@
+@font-face {
+	font-family: "Involve-Semibold";
+	src: url("./involve/fonts/TTF/Involve-SemiBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Involve-Bold";
+	src: url("./involve/fonts/TTF/Involve-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Involve-BoldOblique";
+	src: url("./involve/fonts/TTF/Involve-Medium.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+* {
+	font-family: "Involve-Semibold";
+}
+
+.text-indent {
+	text-indent: 1rem;
+}
+
+b,
+strong {
+	font-family: "Involve-BoldOblique";
+}
+
+h1,
+h3 {
+	font-family: "Involve-Bold";
+}
+
+.text-tiny {
+	font-size: 0.9rem;
+}
