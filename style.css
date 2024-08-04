@@ -1,20 +1,20 @@
 @font-face {
 	font-family: "Involve-Semibold";
-	src: url("./involve/fonts/TTF/Involve-SemiBold.ttf") format("truetype");
+	src: url("./fonts/Involve-SemiBold.ttf") format("truetype");
 	font-style: normal;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: "Involve-Bold";
-	src: url("./involve/fonts/TTF/Involve-Bold.ttf") format("truetype");
+	src: url("./fonts/Involve-Bold.ttf") format("truetype");
 	font-style: normal;
 	font-weight: normal;
 }
 
 @font-face {
 	font-family: "Involve-BoldOblique";
-	src: url("./involve/fonts/TTF/Involve-Medium.ttf") format("truetype");
+	src: url("./fonts/Involve-Medium.ttf") format("truetype");
 	font-style: normal;
 	font-weight: normal;
 }
