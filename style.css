@@ -32,10 +32,10 @@ strong {
 	font-family: "Involve-BoldOblique";
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1 *,
+h2 *,
+h3 *,
+h4 * {
 	font-family: "Involve-Bold";
 }
 
